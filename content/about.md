@@ -21,8 +21,8 @@ how to build products in a holistic way. I generally find common ground with bot
 and management, and speak both of their languages. I like to remain hands-on, and am
 not interested in purely managerial work. 
 
-At the time of writing, I have a long-term consulting relationship with [Crate.io](https://crate.io/) 
-where I help them build their [SaaS offering](https://crate.io/products/cratedb-cloud).
+I am currently full-time employed as a CTO at [SenseAI Vision](https://senseai.vision), mucking about in the 
+exciting field of electron microscopy.
 
 On the side, I am involved in the world of early-stage startups, and work with a couple
 of them on both product discovery and engineering challenges. 
@@ -39,12 +39,14 @@ of them on both product discovery and engineering challenges.
 ## Things I don't think I'm good at
 
 * Working with people who over-emphasise process and "correctness"
-* Ossified organisations where it's impossible to get anything done
+* Ossified organisations where it is impossible to get anything done
 
 ## Tech stuff
 
 * Python
 * Java
+* C++
+* C#/.NET
 * Ruby (although I haven't touched this for a few years now)
 * Kubernetes
 * Linux/Unix stuff
